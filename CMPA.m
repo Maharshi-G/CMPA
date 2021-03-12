@@ -3,7 +3,7 @@ Author : Maharshi Gurjar
 Elec 4700 CMPA
 %}
 %%
-clc; close all; clear;
+clc; close all; clear all;
 set(0, 'DefaultFigureWindowStyle', 'docked')
 Is = 0.01e-12;
 Ib = 0.1e-12;
